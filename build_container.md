@@ -60,6 +60,6 @@ docker ps
 ```
 This will list all the running containers.
 
-## To stop the running container
+## To stop the running container and check for updates...ignore
 
     docker stop <container if that you see when you run>
